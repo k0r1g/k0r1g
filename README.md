@@ -1,4 +1,4 @@
-## Timline Highlights
+## 🌱 Timline Highlights
 
 <!--
 **k0r1g/k0r1g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 *2021*
 - Built an LSTM that beat clinical alarms in predicting medical emergencies.
-- At Oxford's CHI Lab used NHS maternal health data and UPMC hopsital records to build ML models for early risk detection.
+- At Oxford's CHI Lab used NHS maternal health data and UPMC hopsital records to build time-series ML models for early risk detection.
 - Graduated Oxford University with a BA/MEng in Information Engineering. 
